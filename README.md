@@ -10,7 +10,7 @@ A simple Register Form using React Hook Form and Yup validation.
 
 ```bash
 git clone https://github.com/Parvaneh-Yaghoubi/Yup-Validation.git
-cd Product-Catalog
+cd Yup-Validation
 ```
 
 ### 2️⃣ Install dependencies
